@@ -1,0 +1,41 @@
+body {
+	background-color: hsl(212, 45%, 89%);
+}
+
+img	{
+	height: 200.31496063px;
+	width: 196.53543307px;
+	padding-top: 11.338582677px;
+	padding-left: 11.338582677px;
+	padding-right: 11.338582677px;
+}
+
+.box  {
+	background-color: white;
+	width: 215.43307087px;
+	height: 340.15748031;
+}
+
+#text1  {
+	font-size: 15px;
+	text-align: center;
+}
+
+#line1  {
+	font-size: 10px;
+	color: grey;
+	padding-left: 35px;
+}
+
+#line2  {
+	font-size: 10px;
+	color: grey;
+	padding-left: 29px;	
+}
+
+#line3  {
+	font-size: 10px;
+	color: grey;
+	padding-left: 80px;	
+	margin-bottom: 50px;
+}
